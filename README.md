@@ -9,7 +9,7 @@ I'm a Physics graduate by University of Murcia (Spain) with Google Data Analyst 
 
 - [![Email](https://img.shields.io/badge/pedrohurtgm@gmail.com-%23D14836.svg?logo=gmail&logoColor=white&style=plstic)](mailto:tu_correo_pedrohurtgm@gmail.com)
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alejandro-pujante-p%C3%A9rez-a2778b230/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/pedro-hurtado-gimenez-9a2356282/)
 
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-5DADE2?logo=kaggle&logoColor=white&style=plastic)](https://www.kaggle.com/pedrohurtadogimenez)
 
