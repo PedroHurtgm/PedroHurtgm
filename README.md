@@ -17,6 +17,7 @@ I'm a Physics graduate by University of Murcia (Spain) with Google Data Analyst 
 
 <img src="https://img.shields.io/badge/-Python-%233776AB.svg?logo=python&logoColor=yellow" width = 100> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/-R-2874A6?logo=r&logoColor=white" width = 53> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-00758f?logo=mysql" width = 105> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Microsoft Excel-196F3D?logo=microsoftexcel" width = 160> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PowerBi-17202A?logo=powerbi" width = 105> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Tableau-230497?logo=tableau" width = 105> &nbsp;&nbsp;&nbsp;&nbsp;
