@@ -3,7 +3,7 @@
 ## About me:
 
 
-I'm a Physics graduate by University of Murcia (Spain) with Google Data Analyst certificate and Google Advanced Data Analyst certificate. I'm actually looking for start my career as Data Analyst.
+I'm a Physics graduate by University of Murcia (Spain) with Google Data Analyst certificate and Google Advanced Data Analyst certificate. I'm actually working in Palma de Mallorca as a Business Analyst in Maravi Management Solutions. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics.
 
 ## Social:
 
